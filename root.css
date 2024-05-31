@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root{
+    --Font-color-Grey900: #1E1F20;
+    --Font-color-Grey400:#898E99;
+    --Primary-color: #411AD8;
+    --Font-color-white900: white;
+    --Font-color-white400: #B9B3D0;
+}
+
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--Font-color-Grey900);
+}
+
+.Sumit-portfolio{
+    margin: 30px 380px;
+
+}
